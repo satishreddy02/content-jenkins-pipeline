@@ -1,4 +1,3 @@
-#Trial
 pipeline {
   agent any
 
